@@ -1,12 +1,27 @@
-body {
+/* *  {
+	background-color: yellowgreen;
+	margin: 0;
+	padding:0;
+	color:saddlebrown;
+} */
+
+
+/* body {
     text-align: center ;
     background-color: slategray;
 }
+*/
 
 header {
-        background-color: seagreen;
+    background-color: seagreen;
 }
 
+
+footer {
+    background-color: seagreen;
+}
+
+/* 
 h1 {
     font-size: 90px;
     color: lightseagreen;
@@ -14,5 +29,18 @@ h1 {
 
 p {
     font-size: 30px;
-    /* font-weight: bold; */
+    
+} */
+
+a {
+    color: darkblue;
+    background-color: peachpuff;
+    text-decoration: none;
 }
+
+p {
+    color: olive;
+    font-size: 26px;
+}
+
+/* p font-weight: bold; */
