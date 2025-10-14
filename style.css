@@ -10,11 +10,14 @@
 
 
 body {
-    text-align: center ;
-    /* background-color: slategray; */
+    /* text-align: center ; */
+    background-color:lightslategray;
     /* background: linear-gradient(327deg,rgba(85, 107, 47, 1) 0%, rgba(107, 142, 35, 1) 50%, rgba(143, 188, 143, 1) 100%); */
 }
 
+li {
+
+}
 
 header {
     /* background-color: darkolivegreen; */
